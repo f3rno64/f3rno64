@@ -4,7 +4,7 @@
 
 I am a **full-stack** software engineer who specializes in **modern web app development**.
 
-My beloved tech stack consists of **Node.JS**, **TypeScript**, and **React**. For data storage, I use **PostgreSQL**, **MongoDB**, **Redis**, and **InfluxDB**. 🚀
+My beloved tech stack consists of **Node.JS**, **TypeScript**, and **React** 🚀
 
 ---
 
